@@ -1,3 +1,3 @@
 # Test-multi-templates
 
-test 1
+test 2
